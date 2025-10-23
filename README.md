@@ -1,2 +1,2 @@
-# devops-labs
-Laboratório DevOps com Docker, Kubernetes, CI/CD e Cloud
+# DevOps Labs 🚀
+Repositório de estudos e projetos DevOps com prática real.
